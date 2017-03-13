@@ -6,12 +6,13 @@
 [Post] /books - crée un livre dans la base
 [Delete] /books/[int] - supprime un livre dans la base
 [Put] /books/[int] - met à jour un livre dans la base
+[Get] /members/[int]/books - affiche les livres pour le membre donné
 
----- TABLE
-[    Book    ]
-[ -id        ]
-[ -name      ]
-[ -category  ]
+---- TABLES
+[    Book    ]		[  Membres  ]
+[ -id        ]		[ -id       ]
+[ -name      ]		[ -idbook   ]
+[ -category  ]		[ -name     ]
 
 ---- DOC
 - Membres du groupe

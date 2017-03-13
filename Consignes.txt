@@ -14,7 +14,7 @@
 [ -category  ]
 
 ---- DOC
-- Membres
+- Membres du groupe
 - Techno utilisées + Versions
 - Niveau dans la techno avant de commancer
 - Notice d'utilisation

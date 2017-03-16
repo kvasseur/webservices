@@ -28,7 +28,6 @@
 	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
 	Router::connect('/books', array('controller' => 'books', 'action' => 'index'));
 	Router::connect('/books/add', array('controller' => 'books', 'action' => 'add'));
-
 	Router::connect('/books/:id', array('controller' => 'books', 'action' => 'view'), array('pass' => array('id'),
         'id' => '[0-9]+'));
 /**

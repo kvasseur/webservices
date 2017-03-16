@@ -1,5 +1,5 @@
 <h1>Liste des livres</h1>
-<table>
+<table class="table table-bordered">
     <tr>
         <th>Numéro</th>
         <th>Titre</th>
@@ -19,7 +19,8 @@
     <?php unset($book); ?>
 </table>
 
-<?php echo $this->Html->link(
+<button type="button" class="btn btn-primary"><?php echo $this->Html->link(
     'Ajouter un livre',
     array('controller' => 'books', 'action' => 'add')
 ); ?>
+</button>

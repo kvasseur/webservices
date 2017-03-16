@@ -9,7 +9,7 @@
 [Get] /members/[int]/books - affiche les livres pour le membre donné
 
 ---- TABLES
-[    Book    ]		[  Membres  ]
+[____Book____]		[__Membres__]
 [ -id        ]		[ -id       ]
 [ -name      ]		[ -idbook   ]
 [ -category  ]		[ -name     ]
@@ -17,7 +17,8 @@
 ---- DOC
 - Membres du groupe
 - Techno utilisées + Versions
-- Niveau dans la techno avant de commancer
+- Niveau dans la techno avant de commencer
+- Philosophie
 - Notice d'utilisation
 - Notice d'instalation
 - Liens (Git, Trello...)

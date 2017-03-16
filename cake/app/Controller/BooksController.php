@@ -2,6 +2,12 @@
 	
 	class BooksController extends AppController{
 
+		public function index(){
+			$books = $this->Book->find('all');
+			//debug($books);
+			$this->set('books', $books);
+		}
+
 		public function add(){
 			if($this->request->is('post')){
 
@@ -20,6 +26,15 @@
 
 			}
 		}
+
+		public function view($id = null) {
+
+
+
+	        $book = $this->Book->findById($id);
+
+       		$this->set('book', $book);
+    	}
 
 	}
 

@@ -26,10 +26,15 @@
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
 	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
+	Router::connect('/books', array('controller' => 'books', 'action' => 'index'));
+	Router::connect('/books/add', array('controller' => 'books', 'action' => 'add'));
+
+	Router::connect('/books/:id', array('controller' => 'books', 'action' => 'view'), array('pass' => array('id'),
+        'id' => '[0-9]+'));
 /**
  * ...and connect the rest of 'Pages' controller's URLs.
  */
-	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
+	//Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
 
 /**
  * Load all plugin routes. See the CakePlugin documentation on

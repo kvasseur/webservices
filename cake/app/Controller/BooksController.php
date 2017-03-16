@@ -1,19 +1,27 @@
 <?php
 
+	
 	class BooksController extends AppController{
+
 		public function add(){
 			if($this->request->is('post')){
-				$name = $this->Book->findByName($this->request->data['Book']['name']);
+
+				debug($this->request->data);
+				$name=$this->Book->findByName($this->request->data['Book']['name']);
+				
 				if(empty($name)){
+
 					$this->Book->create($this->request->data);
 					$this->Book->save(null, true);
-					debug('yep');
+					debug("Insertion réussie!");
+				
 				}else{
-					debug('nope');
+					debug("Erreur : enregistrement déjà existant");
 				}
+
 			}
 		}
 
-
 	}
+
 ?>

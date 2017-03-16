@@ -1,10 +1,10 @@
 		API REST - Mediatheque
 		     Web Services
 ---- METHODES
-[Get] /books - donne la liste des livres
-[Get] /books/[int] - donne le livre à l'identifiant donné
-[Post] /books - crée un livre dans la base
-[Delete] /books/[int] - supprime un livre dans la base
+[Get] /books - donne la liste des livres // FAIT
+[Get] /books/[int] - donne le livre à l'identifiant donné // FAIT
+[Post] /books - crée un livre dans la base // FAIT (problème url)
+[Delete] /books/[int] - supprime un livre dans la base // on utilise la méthode post au lieu de delete
 [Put] /books/[int] - met à jour un livre dans la base
 [Get] /members/[int]/books - affiche les livres pour le membre donné
 

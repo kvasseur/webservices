@@ -2,11 +2,11 @@
 		     Web Services
 ---- METHODES
 [Get] /books - donne la liste des livres // FAIT
-[Get] /books/[int] - donne le livre à l'identifiant donné // FAIT
-[Post] /books - crée un livre dans la base // FAIT (problème url)
-[Delete] /books/[int] - supprime un livre dans la base // on utilise la méthode post au lieu de delete
-[Put] /books/[int] - met à jour un livre dans la base
-[Get] /members/[int]/books - affiche les livres pour le membre donné
+[Get] /books/[int] - donne le livre Ã  l'identifiant donnÃ© // FAIT
+[Post] /books - crÃ©e un livre dans la base // FAIT (problÃ¨me url)
+[Delete] /books/[int] - supprime un livre dans la base // on utilise la mÃ©thode post au lieu de delete
+[Put] /books/[int] - met Ã  jour un livre dans la base 
+[Get] /members/[int]/books - affiche les livres pour le membre donnÃ©
 
 ---- TABLES
 [____Book____]		[__Membres__]
@@ -16,7 +16,7 @@
 
 ---- DOC
 - Membres du groupe
-- Techno utilisées + Versions
+- Techno utilisÃ©es + Versions
 - Niveau dans la techno avant de commencer
 - Philosophie
 - Notice d'utilisation

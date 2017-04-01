@@ -4,7 +4,7 @@
 		public $hasMany = array(
         'Book' => array(
             'className' => 'Book',
-            
+         
 
         )
     	);	

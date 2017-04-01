@@ -1,0 +1,1 @@
+<?php echo 'Impossible de supprimer ce livre car il appartient à une personne';?>

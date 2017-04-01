@@ -83,13 +83,12 @@
 
     	public function delete($id = null){
 
-    		$book = $this->Book->findById($id);
+			$book = $this->Book->findById($id);
 
-    		$this->Book->delete($id);
-		
-    		return $this->redirect(array('action' => 'index'));
 
-	    	
+    		if($this->Book->delete($id)){
+    			return $this->redirect(array('action' => 'index'));
+    		}	
     	}
 
     	public function getBooksMember($id = null){

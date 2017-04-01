@@ -34,5 +34,5 @@ class AppController extends Controller {
 
 	public $components = array('RequestHandler');
 
-	public $uses = array('books');
+	public $uses = array('Book', 'Member');
 }

@@ -22,6 +22,9 @@
     <?php unset($book); ?>
 </table>
 
-<button type="button" class="btn btn-primary"><?php echo $this->Html->link('Ajouter un livre',array('controller' => 'books', 'action' => 'add')
+<button type="button" class="btn btn-primary"><?php echo $this->Html->link(
+    'Ajouter un livre',
+    array('controller' => 'books', 'action' => 'add')
 ); ?>
 </button>
+

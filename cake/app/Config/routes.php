@@ -24,12 +24,27 @@
  * Here, we are connecting '/' (base path) to controller called 'Pages',
  * its action called 'display', and we pass a param to select the view file
  * to use (in this case, /app/View/Pages/home.ctp)...
+
+
  */
-	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
-	Router::connect('/books', array('controller' => 'books', 'action' => 'index'));
-	Router::connect('/books/add', array('controller' => 'books', 'action' => 'add'));
-	Router::connect('/books/:id', array('controller' => 'books', 'action' => 'view'), array('pass' => array('id'),
+
+	Router::parseExtensions();
+	Router::mapResources('books');
+	Router::mapResources('members');
+
+	Router::connect('', array('controller' => 'pages', 'action' => 'home'));
+	Router::connect('books', array('controller' => 'books', 'action' => 'index','/../add'));
+	Router::connect('/members/:id/books', array('controller' => 'books', 'action' => 'getBooksMember'), array('pass' => array('id'),
         'id' => '[0-9]+'));
+
+	Router::resourceMap(array(
+    array('action' => 'index', 'method' => 'GET', 'id' => false),
+    array('action' => 'view', 'method' => 'GET', 'id' => true),
+    array('action' => 'add', 'method' => 'POST', 'id' => false),
+    array('action' => 'edit', 'method' => 'PUT', 'id' => true),
+    array('action' => 'delete', 'method' => 'DELETE', 'id' => true),
+    array('action' => 'update', 'method' => 'POST', 'id' => true)
+	));
 /**
  * ...and connect the rest of 'Pages' controller's URLs.
  */

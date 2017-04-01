@@ -10,8 +10,7 @@
     <tr>
         <td><?php echo $book['Book']['id']; ?></td>
         <td>
-            <?php echo $this->Html->link($book['Book']['name'],
-            array('controller' => 'books', 'action' => 'view', $book['Book']['id'])); ?>
+            <?php echo $this->Html->link($book['Book']['name'], array('controller' => 'books', 'action' => book['Book']['id'])); ?>
         </td>
         <td><?php echo $book['Book']['category']; ?></td>
     </tr>
@@ -19,8 +18,6 @@
     <?php unset($book); ?>
 </table>
 
-<button type="button" class="btn btn-primary"><?php echo $this->Html->link(
-    'Ajouter un livre',
-    array('controller' => 'books', 'action' => 'add')
+<button type="button" class="btn btn-primary"><?php echo $this->Html->link('Ajouter un livre',array('controller' => 'books', 'action' => 'add')
 ); ?>
 </button>

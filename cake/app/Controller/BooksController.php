@@ -24,18 +24,16 @@
 				}else{
 					debug("Erreur : enregistrement déjà existant");
 				}
-
 			}
 		}
 
 		public function view($id = null) {
-
-
-
 	        $book = $this->Book->findById($id);
 
        		$this->set('book', $book);
     	}
+
+    	
 
 	}
 

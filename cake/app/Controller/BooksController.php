@@ -62,15 +62,14 @@
     	}
 
     	public function edit($id = null){
-
-    		
+    		$book = $this->Book->findById($id);
+    		$this->set(array('book'=>$book));
     		if ($this->request->is('put')) {
 
 		        $this->Book->id = $id;
 
 		        if ($this->Book->save($this->request->data)) {
 
-		          
 		            return $this->redirect(array('action' => 'index'));
 
 		        }

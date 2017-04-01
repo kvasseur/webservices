@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  1 APR 2017 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  1 APR 2017 19:40
 entering extended mode
 **./Rapport.tex
 (Rapport.tex
@@ -298,21 +298,21 @@ Overfull \hbox (5.63135pt too wide) in paragraph at lines 68--69
 iche les livres pour le mem-bre donne (methode
  []
 
-<img/resultats/q1,1.png, id=130, 809.27344pt x 523.20468pt>
+<img/resultats/q1,1.png, id=135, 809.27344pt x 523.20468pt>
 File: img/resultats/q1,1.png Graphic file (type png)
 
 <use img/resultats/q1,1.png>
 Package pdftex.def Info: img/resultats/q1,1.png used on input line 75.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
 
-<img/resultats/q1,2.png, id=131, 809.27344pt x 523.20468pt>
+<img/resultats/q1,2.png, id=136, 809.27344pt x 523.20468pt>
 File: img/resultats/q1,2.png Graphic file (type png)
 
 <use img/resultats/q1,2.png>
 Package pdftex.def Info: img/resultats/q1,2.png used on input line 78.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [3 <./img/resultats/q1,1.png>]
-<img/resultats/q2,1.png, id=143, 1028.34187pt x 578.16pt>
+<img/resultats/q2,1.png, id=148, 1028.34187pt x 578.16pt>
 File: img/resultats/q2,1.png Graphic file (type png)
 
 <use img/resultats/q2,1.png>
@@ -323,7 +323,7 @@ Overfull \hbox (66.32947pt too wide) in paragraph at lines 83--84
  [] 
  []
 
-<img/resultats/q2,2.png, id=144, 1028.34187pt x 578.16pt>
+<img/resultats/q2,2.png, id=149, 1028.34187pt x 578.16pt>
 File: img/resultats/q2,2.png Graphic file (type png)
 
 <use img/resultats/q2,2.png>
@@ -335,35 +335,35 @@ Overfull \hbox (66.32947pt too wide) in paragraph at lines 86--87
  []
 
 [4 <./img/resultats/q1,2.png> <./img/resultats/q2,1.png>]
-<img/resultats/q3.png, id=149, 809.27344pt x 523.20468pt>
+<img/resultats/q3.png, id=154, 809.27344pt x 523.20468pt>
 File: img/resultats/q3.png Graphic file (type png)
 
 <use img/resultats/q3.png>
 Package pdftex.def Info: img/resultats/q3.png used on input line 90.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
 
-<img/resultats/q4,1.png, id=150, 809.27344pt x 523.20468pt>
+<img/resultats/q4,1.png, id=155, 809.27344pt x 523.20468pt>
 File: img/resultats/q4,1.png Graphic file (type png)
 
 <use img/resultats/q4,1.png>
 Package pdftex.def Info: img/resultats/q4,1.png used on input line 94.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [5 <./img/resultats/q2,2.png> <./img/resultats/q3.png>] <img/resultats/q4,2.pn
-g, id=156, 809.27344pt x 523.20468pt>
+g, id=161, 809.27344pt x 523.20468pt>
 File: img/resultats/q4,2.png Graphic file (type png)
 
 <use img/resultats/q4,2.png>
 Package pdftex.def Info: img/resultats/q4,2.png used on input line 97.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
 
-<img/resultats/q5.png, id=157, 809.27344pt x 523.20468pt>
+<img/resultats/q5.png, id=162, 809.27344pt x 523.20468pt>
 File: img/resultats/q5.png Graphic file (type png)
 
 <use img/resultats/q5.png>
 Package pdftex.def Info: img/resultats/q5.png used on input line 101.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [6 <./img/resultats/q4,1.png> <./img/resultats/q4,2.png>] <img/resultats/q6.pn
-g, id=162, 809.27344pt x 523.20468pt>
+g, id=167, 809.27344pt x 523.20468pt>
 File: img/resultats/q6.png Graphic file (type png)
 
 <use img/resultats/q6.png>
@@ -377,7 +377,7 @@ Overfull \hbox (1.61163pt too wide) in paragraph at lines 117--119
 a telecharger
  []
 
-<img/fioritures.png, id=173, 722.7pt x 433.62pt>
+<img/fioritures.png, id=178, 722.7pt x 433.62pt>
 File: img/fioritures.png Graphic file (type png)
  <use img/fioritures.png>
 Package pdftex.def Info: img/fioritures.png used on input line 127.
@@ -387,134 +387,101 @@ Package pdftex.def Info: img/fioritures.png used on input line 127.
 
  <./img/fioritures.png>]
 Chapter 3.
-<img/manuel/ListeDesLivres.png, id=187, 710.655pt x 493.845pt>
+<img/manuel/menu.png, id=192, 282.30469pt x 37.64063pt>
+File: img/manuel/menu.png Graphic file (type png)
+
+<use img/manuel/menu.png>
+Package pdftex.def Info: img/manuel/menu.png used on input line 133.
+(pdftex.def)             Requested size: 112.91986pt x 15.05597pt.
+
+<img/manuel/ListeDesLivres.png, id=193, 710.655pt x 493.845pt>
 File: img/manuel/ListeDesLivres.png Graphic file (type png)
 
 <use img/manuel/ListeDesLivres.png>
-Package pdftex.def Info: img/manuel/ListeDesLivres.png used on input line 135.
-(pdftex.def)             Requested size: 355.32663pt x 246.92189pt.
+Package pdftex.def Info: img/manuel/ListeDesLivres.png used on input line 144.
+(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
+ [9
 
-Overfull \hbox (10.32663pt too wide) in paragraph at lines 135--136
- [] 
- []
-
-<img/manuel/DetailLivre.png, id=188, 710.655pt x 493.845pt>
+ <./img/manuel/menu.png> <./img/manuel/ListeDesLivres.png>] <img/manuel/DetailL
+ivre.png, id=199, 710.655pt x 493.845pt>
 File: img/manuel/DetailLivre.png Graphic file (type png)
 
 <use img/manuel/DetailLivre.png>
-Package pdftex.def Info: img/manuel/DetailLivre.png used on input line 141.
-(pdftex.def)             Requested size: 355.32663pt x 246.92189pt.
+Package pdftex.def Info: img/manuel/DetailLivre.png used on input line 150.
+(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
 
-Overfull \hbox (10.32663pt too wide) in paragraph at lines 141--142
- [] 
- []
-
-[9
-
- <./img/manuel/ListeDesLivres.png>]
-<img/manuel/DetailLivre_Supprimer.png, id=193, 337.26pt x 108.405pt>
+<img/manuel/DetailLivre_Supprimer.png, id=200, 337.26pt x 108.405pt>
 File: img/manuel/DetailLivre_Supprimer.png Graphic file (type png)
 
 <use img/manuel/DetailLivre_Supprimer.png>
 Package pdftex.def Info: img/manuel/DetailLivre_Supprimer.png used on input lin
-e 146.
-(pdftex.def)             Requested size: 168.62958pt x 54.20236pt.
+e 156.
+(pdftex.def)             Requested size: 134.9016pt x 43.36122pt.
 
-<img/manuel/DetailLivre_Supprimer_success.png, id=194, 710.655pt x 493.845pt>
-File: img/manuel/DetailLivre_Supprimer_success.png Graphic file (type png)
-
-<use img/manuel/DetailLivre_Supprimer_success.png>
-Package pdftex.def Info: img/manuel/DetailLivre_Supprimer_success.png used on i
-nput line 150.
-(pdftex.def)             Requested size: 355.32663pt x 246.92189pt.
-
-Overfull \hbox (10.32663pt too wide) in paragraph at lines 150--151
- [] 
- []
-
-[10 <./img/manuel/DetailLivre.png> <./img/manuel/DetailLivre_Supprimer.png>]
-<img/manuel/DetailLivre_Supprimer_error.png, id=199, 1156.32pt x 650.43pt>
+<img/manuel/DetailLivre_Supprimer_error.png, id=201, 710.655pt x 493.845pt>
 File: img/manuel/DetailLivre_Supprimer_error.png Graphic file (type png)
 
 <use img/manuel/DetailLivre_Supprimer_error.png>
 Package pdftex.def Info: img/manuel/DetailLivre_Supprimer_error.png used on inp
-ut line 154.
-(pdftex.def)             Requested size: 462.5198pt x 260.16739pt.
-
-Overfull \hbox (117.5198pt too wide) in paragraph at lines 154--155
- [] 
- []
-
-<img/manuel/DetailLivre_Editer.png, id=200, 710.655pt x 493.845pt>
+ut line 166.
+(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
+ [10 <./img/manuel/DetailLivre.png> <./img/manuel/DetailLivre_Supprimer.png>]
+<img/manuel/DetailLivre_Editer.png, id=207, 710.655pt x 493.845pt>
 File: img/manuel/DetailLivre_Editer.png Graphic file (type png)
 
 <use img/manuel/DetailLivre_Editer.png>
 Package pdftex.def Info: img/manuel/DetailLivre_Editer.png used on input line 1
-59.
-(pdftex.def)             Requested size: 355.32663pt x 246.92189pt.
+72.
+(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
 
-Overfull \hbox (10.32663pt too wide) in paragraph at lines 159--160
- [] 
- []
-
-[11 <./img/manuel/DetailLivre_Supprimer_success.png> <./img/manuel/DetailLivre_
-Supprimer_error.png>]
-<img/manuel/DetailAjouterLivre.png, id=206, 710.655pt x 493.845pt>
+<img/manuel/DetailAjouterLivre.png, id=208, 710.655pt x 493.845pt>
 File: img/manuel/DetailAjouterLivre.png Graphic file (type png)
 
 <use img/manuel/DetailAjouterLivre.png>
 Package pdftex.def Info: img/manuel/DetailAjouterLivre.png used on input line 1
-64.
-(pdftex.def)             Requested size: 355.32663pt x 246.92189pt.
-
-Overfull \hbox (10.32663pt too wide) in paragraph at lines 164--165
- [] 
- []
-
-[12 <./img/manuel/DetailLivre_Editer.png>]
-<img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png, id=211, 710.655pt x 493
+77.
+(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
+ [11 <./img/manuel/DetailLivre_Supprimer_error.png> <./img/manuel/DetailLivre_E
+diter.png>]
+<img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png, id=214, 710.655pt x 493
 .845pt>
 File: img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png Graphic file (type 
 png)
  <use img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png>
 Package pdftex.def Info: img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png 
-used on input line 168.
-(pdftex.def)             Requested size: 355.32663pt x 246.92189pt.
-
-Overfull \hbox (10.32663pt too wide) in paragraph at lines 168--169
- [] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
-[13 <./img/manuel/DetailAjouterLivre.png> <./img/manuel/DetailAjouterLivre_ajou
-tdunouveaulivre.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+used on input line 181.
+(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
+ [12 <./img/manuel/DetailAjouterLivre.png> <./img/manuel/DetailAjouterLivre_ajo
+utdunouveaulivre.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
  (Rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: D0E77CDB08A1F5E72AD1AD5A3740E5C5;1335.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
+(rerunfilecheck)             Checksum: 1BE6C6B88B86469C687FD3725140ABAC;1390.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
  ) 
 Here is how much of TeX's memory you used:
- 5313 strings out of 493333
- 79713 string characters out of 3139182
+ 5316 strings out of 493333
+ 79629 string characters out of 3139182
  160956 words of memory out of 3000000
- 8749 multiletter control sequences out of 15000+200000
- 10236 words of font info for 36 fonts, out of 3000000 for 9000
+ 8751 multiletter control sequences out of 15000+200000
+ 10595 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,7n,28p,302b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmtt10.pfb>
-Output written on Rapport.pdf (15 pages, 1309320 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
+t10.pfb>
+Output written on Rapport.pdf (14 pages, 1169052 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
+ 262 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 words of extra memory for PDF output out of 10000 (max. 10000000)
 

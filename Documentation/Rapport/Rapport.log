@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  1 APR 2017 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  1 APR 2017 21:28
 entering extended mode
 **./Rapport.tex
 (Rapport.tex
@@ -270,30 +270,25 @@ l.34 	\chapter
 ]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
 [2
 
 ]
-Overfull \hbox (5.63135pt too wide) in paragraph at lines 68--69
+Overfull \hbox (5.63135pt too wide) in paragraph at lines 67--68
 []\OT1/cmr/bx/n/10 /members/[int]/books \OT1/cmr/m/n/10 - \OT1/cmr/m/it/10 af-f
 iche les livres pour le mem-bre donne (methode
  []
@@ -302,24 +297,24 @@ iche les livres pour le mem-bre donne (methode
 File: img/resultats/q1,1.png Graphic file (type png)
 
 <use img/resultats/q1,1.png>
-Package pdftex.def Info: img/resultats/q1,1.png used on input line 75.
+Package pdftex.def Info: img/resultats/q1,1.png used on input line 74.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
 
 <img/resultats/q1,2.png, id=136, 809.27344pt x 523.20468pt>
 File: img/resultats/q1,2.png Graphic file (type png)
 
 <use img/resultats/q1,2.png>
-Package pdftex.def Info: img/resultats/q1,2.png used on input line 78.
+Package pdftex.def Info: img/resultats/q1,2.png used on input line 77.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [3 <./img/resultats/q1,1.png>]
 <img/resultats/q2,1.png, id=148, 1028.34187pt x 578.16pt>
 File: img/resultats/q2,1.png Graphic file (type png)
 
 <use img/resultats/q2,1.png>
-Package pdftex.def Info: img/resultats/q2,1.png used on input line 83.
+Package pdftex.def Info: img/resultats/q2,1.png used on input line 82.
 (pdftex.def)             Requested size: 411.32947pt x 231.2599pt.
 
-Overfull \hbox (66.32947pt too wide) in paragraph at lines 83--84
+Overfull \hbox (66.32947pt too wide) in paragraph at lines 82--83
  [] 
  []
 
@@ -327,10 +322,10 @@ Overfull \hbox (66.32947pt too wide) in paragraph at lines 83--84
 File: img/resultats/q2,2.png Graphic file (type png)
 
 <use img/resultats/q2,2.png>
-Package pdftex.def Info: img/resultats/q2,2.png used on input line 86.
+Package pdftex.def Info: img/resultats/q2,2.png used on input line 85.
 (pdftex.def)             Requested size: 411.32947pt x 231.2599pt.
 
-Overfull \hbox (66.32947pt too wide) in paragraph at lines 86--87
+Overfull \hbox (66.32947pt too wide) in paragraph at lines 85--86
  [] 
  []
 
@@ -339,48 +334,61 @@ Overfull \hbox (66.32947pt too wide) in paragraph at lines 86--87
 File: img/resultats/q3.png Graphic file (type png)
 
 <use img/resultats/q3.png>
-Package pdftex.def Info: img/resultats/q3.png used on input line 90.
+Package pdftex.def Info: img/resultats/q3.png used on input line 89.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
 
 <img/resultats/q4,1.png, id=155, 809.27344pt x 523.20468pt>
 File: img/resultats/q4,1.png Graphic file (type png)
 
 <use img/resultats/q4,1.png>
-Package pdftex.def Info: img/resultats/q4,1.png used on input line 94.
+Package pdftex.def Info: img/resultats/q4,1.png used on input line 93.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [5 <./img/resultats/q2,2.png> <./img/resultats/q3.png>] <img/resultats/q4,2.pn
 g, id=161, 809.27344pt x 523.20468pt>
 File: img/resultats/q4,2.png Graphic file (type png)
 
 <use img/resultats/q4,2.png>
-Package pdftex.def Info: img/resultats/q4,2.png used on input line 97.
+Package pdftex.def Info: img/resultats/q4,2.png used on input line 96.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
 
 <img/resultats/q5.png, id=162, 809.27344pt x 523.20468pt>
 File: img/resultats/q5.png Graphic file (type png)
 
 <use img/resultats/q5.png>
-Package pdftex.def Info: img/resultats/q5.png used on input line 101.
+Package pdftex.def Info: img/resultats/q5.png used on input line 100.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [6 <./img/resultats/q4,1.png> <./img/resultats/q4,2.png>] <img/resultats/q6.pn
 g, id=167, 809.27344pt x 523.20468pt>
 File: img/resultats/q6.png Graphic file (type png)
 
 <use img/resultats/q6.png>
-Package pdftex.def Info: img/resultats/q6.png used on input line 105.
+Package pdftex.def Info: img/resultats/q6.png used on input line 104.
 (pdftex.def)             Requested size: 323.70364pt x 209.27815pt.
  [7 <./img/resultats/q5.png> <./img/resultats/q6.png>]
 Chapter 2.
 
-Overfull \hbox (1.61163pt too wide) in paragraph at lines 117--119
+Overfull \hbox (1.61163pt too wide) in paragraph at lines 116--118
 []\OT1/cmr/m/n/10 Si vous ne possedez pas l'environnement WAMP, vous pou-vez l
 a telecharger
+ []
+
+
+Overfull \hbox (20.95868pt too wide) in paragraph at lines 121--122
+[]\OT1/cmr/m/n/10 Mettre le fichier \OT1/cmr/m/it/10 "web-ser-vices" \OT1/cmr/m
+/n/10 dans le fichier \OT1/cmr/m/it/10 "www" \OT1/cmr/m/n/10 (chemin : C:\OMS/c
+msy/m/n/10 n\OT1/cmr/m/n/10 wamp\OMS/cmsy/m/n/10 n\OT1/cmr/m/n/10 www) 
+ []
+
+
+Overfull \hbox (4.27612pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/10 Acceder au site avec le lien: []$\OT1/cmtt/m/n/10 http : / /
+ localhost / webservices / cake / books$[] 
  []
 
 <img/fioritures.png, id=178, 722.7pt x 433.62pt>
 File: img/fioritures.png Graphic file (type png)
  <use img/fioritures.png>
-Package pdftex.def Info: img/fioritures.png used on input line 127.
+Package pdftex.def Info: img/fioritures.png used on input line 126.
 (pdftex.def)             Requested size: 72.27423pt x 43.36453pt.
 
 [8
@@ -391,14 +399,14 @@ Chapter 3.
 File: img/manuel/menu.png Graphic file (type png)
 
 <use img/manuel/menu.png>
-Package pdftex.def Info: img/manuel/menu.png used on input line 133.
+Package pdftex.def Info: img/manuel/menu.png used on input line 132.
 (pdftex.def)             Requested size: 112.91986pt x 15.05597pt.
 
 <img/manuel/ListeDesLivres.png, id=193, 710.655pt x 493.845pt>
 File: img/manuel/ListeDesLivres.png Graphic file (type png)
 
 <use img/manuel/ListeDesLivres.png>
-Package pdftex.def Info: img/manuel/ListeDesLivres.png used on input line 144.
+Package pdftex.def Info: img/manuel/ListeDesLivres.png used on input line 143.
 (pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
  [9
 
@@ -407,7 +415,7 @@ ivre.png, id=199, 710.655pt x 493.845pt>
 File: img/manuel/DetailLivre.png Graphic file (type png)
 
 <use img/manuel/DetailLivre.png>
-Package pdftex.def Info: img/manuel/DetailLivre.png used on input line 150.
+Package pdftex.def Info: img/manuel/DetailLivre.png used on input line 149.
 (pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
 
 <img/manuel/DetailLivre_Supprimer.png, id=200, 337.26pt x 108.405pt>
@@ -415,7 +423,7 @@ File: img/manuel/DetailLivre_Supprimer.png Graphic file (type png)
 
 <use img/manuel/DetailLivre_Supprimer.png>
 Package pdftex.def Info: img/manuel/DetailLivre_Supprimer.png used on input lin
-e 156.
+e 155.
 (pdftex.def)             Requested size: 134.9016pt x 43.36122pt.
 
 <img/manuel/DetailLivre_Supprimer_error.png, id=201, 710.655pt x 493.845pt>
@@ -423,7 +431,7 @@ File: img/manuel/DetailLivre_Supprimer_error.png Graphic file (type png)
 
 <use img/manuel/DetailLivre_Supprimer_error.png>
 Package pdftex.def Info: img/manuel/DetailLivre_Supprimer_error.png used on inp
-ut line 166.
+ut line 165.
 (pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
  [10 <./img/manuel/DetailLivre.png> <./img/manuel/DetailLivre_Supprimer.png>]
 <img/manuel/DetailLivre_Editer.png, id=207, 710.655pt x 493.845pt>
@@ -431,7 +439,7 @@ File: img/manuel/DetailLivre_Editer.png Graphic file (type png)
 
 <use img/manuel/DetailLivre_Editer.png>
 Package pdftex.def Info: img/manuel/DetailLivre_Editer.png used on input line 1
-72.
+71.
 (pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
 
 <img/manuel/DetailAjouterLivre.png, id=208, 710.655pt x 493.845pt>
@@ -443,33 +451,29 @@ Package pdftex.def Info: img/manuel/DetailAjouterLivre.png used on input line 1
 (pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
  [11 <./img/manuel/DetailLivre_Supprimer_error.png> <./img/manuel/DetailLivre_E
 diter.png>]
-<img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png, id=214, 710.655pt x 493
-.845pt>
-File: img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png Graphic file (type 
-png)
- <use img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png>
-Package pdftex.def Info: img/manuel/DetailAjouterLivre_ajoutdunouveaulivre.png 
-used on input line 181.
-(pdftex.def)             Requested size: 284.25696pt x 197.53448pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
- [12 <./img/manuel/DetailAjouterLivre.png> <./img/manuel/DetailAjouterLivre_ajo
-utdunouveaulivre.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+File: img/fioritures.png Graphic file (type png)
+ <use img/fioritures.png>
+Package pdftex.def Info: img/fioritures.png used on input line 183.
+(pdftex.def)             Requested size: 72.27423pt x 43.36453pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
+
+[12 <./img/manuel/DetailAjouterLivre.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
  (Rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 1BE6C6B88B86469C687FD3725140ABAC;1390.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
+(rerunfilecheck)             Checksum: 189B11A9B521BB78754C08BD3B8458D9;1407.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 186.
  ) 
 Here is how much of TeX's memory you used:
- 5316 strings out of 493333
- 79629 string characters out of 3139182
+ 5312 strings out of 493333
+ 79364 string characters out of 3139182
  160956 words of memory out of 3000000
- 8751 multiletter control sequences out of 15000+200000
+ 8748 multiletter control sequences out of 15000+200000
  10595 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,28p,302b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,7n,28p,302b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
@@ -479,9 +483,9 @@ e1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
 t10.pfb>
-Output written on Rapport.pdf (14 pages, 1169052 bytes).
+Output written on Rapport.pdf (14 pages, 1137437 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
+ 261 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
- 259 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 words of extra memory for PDF output out of 10000 (max. 10000000)
 

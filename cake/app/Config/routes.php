@@ -28,11 +28,13 @@
 
  */
 
-	Router::parseExtensions('json');
+	Router::parseExtensions();
+	Router::mapResources('books');
+	Router::mapResources('members');
 
-	Router::connect('/', array('controller' => 'pages', 'action' => 'home'));
-	Router::connect('/books/', array('controller' => 'books', 'action' => 'index'));
-	Router::connect('/books/:id', array('controller' => 'books', 'action' => 'view', 'delete', 'edit'), array('pass' => array('id'),
+	Router::connect('', array('controller' => 'pages', 'action' => 'home'));
+	Router::connect('books', array('controller' => 'books', 'action' => 'index','/../add'));
+	Router::connect('/members/:id/books', array('controller' => 'books', 'action' => 'getBooksMember'), array('pass' => array('id'),
         'id' => '[0-9]+'));
 
 	Router::resourceMap(array(

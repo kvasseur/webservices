@@ -3,7 +3,11 @@
 	
 	class BooksController extends AppController{
 
-	
+		public function initialize()
+    	{
+        parent::initialize();
+        $this->loadComponent('RequestHandler');
+    	}
 
 		public function index(){
 
@@ -86,6 +90,25 @@
     		return $this->redirect(array('action' => 'index'));
 
 	    	
+    	}
+
+    	public function getBooksMember($id = null){
+
+    		
+
+    		$books = $this->Book->find('all', array(
+    		'conditions' => array(
+    			'Member.id' => $id,
+    			//'Member.id_book' => 'Book.id'
+
+    		)
+    		));
+    			
+    		$this->set(array(
+	            'books' => $books,
+	            '_serialize' => array('books')
+		    ));
+
     	}
 
 	}
